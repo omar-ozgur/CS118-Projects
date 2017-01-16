@@ -1,0 +1,6 @@
+.vagrant/
+Vagrantfile
+*.html
+*.txt
+*.dSYM/
+tmp/

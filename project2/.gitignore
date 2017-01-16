@@ -1,0 +1,11 @@
+client
+server
+*.txt
+*.dSYM
+*.data
+*.mp3
+*.dat
+~*
+simple-tcp-server
+simple-tcp-client
+*.tar.gz
